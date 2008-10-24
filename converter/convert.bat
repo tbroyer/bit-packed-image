@@ -1,1 +1,1 @@
-@java -cp bpi-converter.jar net.ltgt.bpi.util.BPIConvert %1 %2 %3 %4 %5 %6 %7 %8 %9
+@java -cp "%~dp0\bpi-converter.jar" net.ltgt.bpi.util.BPIConvert %*
